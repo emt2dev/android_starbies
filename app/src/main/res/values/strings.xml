@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StarbiesCoffee</string>
+    <string name="app_title">Starbies</string>
+    <string name="app_subTitle">Your Fav Coffee!</string>
+    <string name="app_splashBtn">Get Started</string>
+    <string name="search">Search...</string>
+    <string name="category">Category</string>
+    <string name="popular_coffee">Popular Coffee</string>
+    <string name="view_selection">View Selection</string>
+    <string name="explorerIconText">Explorer</string>
+    <string name="cartIconText">Cart</string>
+    <string name="wishlistIconText">Wishlist</string>
+    <string name="profileIconText">Profile</string>
+    <string name="currentOrderIconText">My Order</string>
+</resources>
